@@ -1,0 +1,15 @@
+Meeting Transcript – March 22, 2025
+Participants:
+* Alex (Project Manager)
+* Jordan (Developer)
+* Sam (Designer)
+
+Alex: Good morning, everyone. Let’s go over our progress on the Vision-Based Grocery Planner app. Jordan, can you give us an update on the development side?
+Jordan: Sure! I’ve implemented the barcode scanning feature, and it’s working well with the product database. However, I’m facing some issues with image recognition accuracy. I might need to tweak the model parameters or try a different dataset.
+Alex: That makes sense. Sam, any updates on the UI?
+Sam: Yes! I’ve finalized the wireframes for the grocery list interface. I’ll start designing the high-fidelity mockups today. Also, I need Jordan’s input on how the scanned items should appear in the UI.
+Jordan: Got it! Let’s sync up after this meeting to discuss that.
+Alex: Sounds good. Our next steps are: Jordan will refine the image recognition model, and Sam will work on the high-fidelity designs. Let’s reconvene in two days to review progress. Anything else?
+Sam: Nope, all good!
+Jordan: Same here!
+Alex: Great! Meeting adjourned.

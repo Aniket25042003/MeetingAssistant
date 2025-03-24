@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCocZo7D8iYFuZwCA-9mG1ocqO4W6qrxKM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>861055197412</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aniketpatel.meetingassistant</string>
+	<key>PROJECT_ID</key>
+	<string>meetingassistant-4f53e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meetingassistant-4f53e.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:861055197412:ios:435c6f3fe33801bc0a0cf1</string>
+</dict>
+</plist>
