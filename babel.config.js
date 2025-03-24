@@ -11,6 +11,7 @@ module.exports = function(api) {
           "safe": false,
           "allowUndefined": true
         }]
+        ['module:react-native-dotenv']
       ]
     };
   };
