@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyCocZo7D8iYFuZwCA-9mG1ocqO4W6qrxKM</string>
+	<string>your_firebase_API_key</string>
 	<key>GCM_SENDER_ID</key>
-	<string>861055197412</string>
+	<string>yor_firebase_messaging_sender_id</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.aniketpatel.meetingassistant</string>
+	<string>your_firebase_bundle_id</string>
 	<key>PROJECT_ID</key>
-	<string>meetingassistant-4f53e</string>
+	<string>your_firebase_project_id</string>
 	<key>STORAGE_BUCKET</key>
-	<string>meetingassistant-4f53e.firebasestorage.app</string>
+	<string>your_firebase_storage_bucket</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:861055197412:ios:435c6f3fe33801bc0a0cf1</string>
+	<string>1:your_google_app_id</string>
 </dict>
 </plist>
