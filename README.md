@@ -1,5 +1,7 @@
-# Meeting Assistant
-Meeting Assistant is an AI-powered app that helps you capture, analyze, and act on your meeting insights effortlessly. This mobile application streamlines your meeting activities by providing smart task management, and meeting summaries.
+# MeetMate
+MeetMate is an AI-powered app that helps you capture, analyze, and act on your meeting insights effortlessly. This mobile application streamlines your meeting activities by providing smart task management, and meeting summaries.
+
+[![MeetMate](MeetMate.jpeg)](https://github.com/Aniket25042003/MeetingAssistant)
 
 ## Features
 - **AI-powered Transcription**: Automatically transcribe your meetings to capture every important detail
