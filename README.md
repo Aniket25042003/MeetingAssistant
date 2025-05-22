@@ -66,6 +66,8 @@ npx expo start
 - ```/services```: API services and utilities
 - ```/assets```: Images and other static assets
 
-### Contributors
-- **Aniket Patel** (Discord: patelaniket12)
-- **Watermelon** (Discord: melonwaterbottle)
+### Demo
+https://drive.google.com/file/d/1DTdMJPZMrhaewE4YCiH3NRbE63-kAXxp/view?usp=sharing
+
+### Author
+- **Aniket Patel**
